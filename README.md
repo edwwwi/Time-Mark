@@ -92,20 +92,7 @@ All data is stored **locally on the device**, ensuring offline access, privacy, 
 
 ---
 
-## 🧩 Learning Outcomes
-
-This project helps beginners understand and practice:
-
-- Flutter UI design  
-- Date and time handling  
-- Local data storage  
-- Calendar-based data filtering  
-- CRUD operations (Create, Read, Update, Delete)  
-- Clean app architecture  
-
----
-
-## 🚀 Future Enhancements (Optional)
+## 🚀 Future Enhancements 
 
 - Time-based reminders  
 - Categories for events  
