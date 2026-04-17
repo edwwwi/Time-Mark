@@ -8,7 +8,7 @@ class TimeEntryService {
   static Box<TimeEntry> getBox() {
     return Hive.box<TimeEntry>(boxName);
   }
-
+///
   // Add new entry
   static Future<void> addEntry(TimeEntry entry) async {
     final box = getBox();
