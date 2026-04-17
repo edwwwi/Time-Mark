@@ -7,7 +7,7 @@ import 'package:time_mark/services/time_entry_service.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  
+  //
   // Initialize Hive
   await Hive.initFlutter();
   
